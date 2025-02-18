@@ -1,0 +1,46 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Queen",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42"
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": 3,
+        "name": "Snoop Dog",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c19a88576ebe6fcbb325c297"
+      },
+      {
+        "id": 4,
+        "name": "Marília Mendonça",
+        "genre": "Sertanejo",
+        "urlImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5OFxCGGx_o0qccIbJ9vqfEkf_LDLPL1meZPlBpZ4DNO0hIAqvPIijGvELtUmgiVZqrw&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "name": "Os Garotin",
+        "genre": "MPB",
+        "urlImg": "https://i.scdn.co/image/ab67616d0000b273c1074fb5845e66e5e4b1bd2b"
+      },
+      {
+        "id": 6,
+        "name": "Chico Buarque",
+        "genre": "Samba",
+        "urlImg": "https://i.scdn.co/image/ab676161000051741f33f0eccfef05940a1ef879"
+      },
+      {
+        "id": 7,
+        "name": "Yun Li",
+        "genre": "MPB",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb36b5bda390573b5fec4231c5"
+      }
+    ]
+  }
