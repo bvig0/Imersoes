@@ -5,8 +5,8 @@ Imersão Front-End da Alura aonde criamos uma cópia da página inicial do Spoti
 
 ## 📄 Comandos do JSON: 
 
-Faça isso no Git bash e tenha o node.js instalado para que json funcione.
-**OBS:** node.js só é usando para que consiga pesquisar os nomes dos artistas.
+Faça isso no Git bash e tenha o node.js instalado para que json funcione. <br/>
+**OBS: node.js só é usando para que consiga pesquisar os nomes dos artistas.**
 ```bash
 npm uninstall -g json-server 
 npm install -g json-server@0.17
